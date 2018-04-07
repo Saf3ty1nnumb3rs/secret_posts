@@ -34,7 +34,7 @@ class SignUpLogIn extends Component {
 
     render () {
     return (
-      <div>
+      <div className="log-in">
         <form>
           <div>
             <label htmlFor="email">E-mail: </label>
